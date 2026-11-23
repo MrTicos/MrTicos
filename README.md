@@ -32,15 +32,18 @@ Sou estudante de **Sistemas de Informação no Centro de Informática da Univers
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Explorando desenvolvimento full-stack**
 
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Ferramentas**
 
@@ -53,8 +56,9 @@ Sou estudante de **Sistemas de Informação no Centro de Informática da Univers
 
 ### Projetos em destaque
 
-| Projeto | Tecnologias | O que desenvolvemos |
+| Projeto | Tecnologias | Descrição e contribuição |
 | --- | --- | --- |
+| [🎓 CinCoders — Sistema de Matrícula](https://github.com/MrTicos/sistema-matricula-cincoders) | React, TypeScript, Express, Prisma, SQLite | Projeto full-stack individual para gestão de matrículas acadêmicas, com perfis de aluno e secretaria, autenticação por sessão, proteção CSRF e **238 testes automatizados**. |
 | [🚗 Sistema de Estacionamento](https://github.com/MrTicos/Sistema-de-Gerenciamento-de-um-estacionamento-) | C++, SQLite, Qt, CMake | Gestão de vagas, veículos, tickets, tarifas e faturamento em um projeto em equipe. |
 | [🎮 PacIP](https://github.com/MrTicos/PACIP) | Python, Pygame | Jogo inspirado em Pac-Man. Minha contribuição incluiu a **classe `Coin` e sprites**. |
 | [🌐 Site Pessoal](https://github.com/MrTicos/Personal-Site-CIN) | React, Vite, JavaScript | Portfólio acadêmico com informações e projetos da graduação. |
